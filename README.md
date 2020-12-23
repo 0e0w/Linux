@@ -14,3 +14,5 @@ https://www.yuque.com/books/share/742ca8f6-34f3-41ef-b239-be00aaf0df31
 https://github.com/y123456yz/Reading-and-comprehense-linux-Kernel-network-protocol-stack
 https://github.com/g0dA/linuxStack
 https://github.com/wanggx/Linux1.0
+
+https://github.com/MintCN/linux-insides-zh
