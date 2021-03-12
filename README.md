@@ -17,3 +17,4 @@
 - [ ] https://github.com/wanggx/Linux1.0
 - [ ] https://github.com/MintCN/linux-insides-zh
 - [ ] https://github.com/figozhang/runninglinuxkernel_4.0
+- [ ] https://github.com/mybaby101/Linux-Kernel-2.6-comment
