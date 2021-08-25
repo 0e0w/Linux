@@ -15,7 +15,6 @@
 - [ ] https://github.com/y123456yz/Reading-and-comprehense-linux-Kernel-network-protocol-stack
 - [ ] https://github.com/g0dA/linuxStack
 - [ ] https://github.com/wanggx/Linux1.0
-- [ ] https://github.com/MintCN/linux-insides-zh
 - [ ] https://github.com/figozhang/runninglinuxkernel_4.0
 - [ ] https://github.com/mybaby101/Linux-Kernel-2.6-comment
 - [ ] https://github.com/0voice/linux_kernel_wiki
