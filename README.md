@@ -2,7 +2,7 @@
 
 本项目用于记录Linux相关的内容。尽可能的使用Linux，尽可能给你的理解Linux。
 
-本项目创建于2020年11月27日。最近的一次更新时间为2021年11月16日。
+本项目创建于2020年11月27日。最近的一次更新时间为2022年2月4日。
 
 - [ ] https://github.com/billie66/TLCL
 - [ ] https://github.com/wsdjeg/vim-galore-zh_cn
@@ -20,3 +20,4 @@
 - [ ] https://github.com/0voice/linux_kernel_wiki
 - [ ] https://github.com/judasn/Linux-Tutorial
 - [ ] https://github.com/sunym1993/flash-linux0.11-talk
+- [ ] https://github.com/0x0021h/pwnlinux
